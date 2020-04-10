@@ -6,7 +6,7 @@ It is it is composed by two parts:
  
  - Machine learning: Impliment a model which will predict the win or loss for the player using X based on the first 5 legal moves. Made use of KNN, with K=11 and accuracy = 0.833.
 
- -Big Data: Impliment a MapReduce algorithm on the dataset which will count the wins or losses based on the position of each X. Then upload the results of each part to hadoop hdsf.
+ - Big Data: Impliment a MapReduce algorithm on the dataset which will count the wins or losses based on the position of each X. Then upload the results of each part to hadoop hdsf.
 
 ## Process
 
