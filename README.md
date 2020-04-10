@@ -10,4 +10,4 @@ It is it is composed by two parts:
 
 ## Process
 
-Simply download and run tic-tac-toe-model.py or BDReducer. Remove comments for whole functionality.
+Simply download and run tic-tac-toe-model or BDReducer. Remove comments for whole functionality.
